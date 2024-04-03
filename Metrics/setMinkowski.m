@@ -34,7 +34,5 @@ metric{4,3} = zeros(gridSize);
 metric{1,4} = zeros(gridSize);
 metric{4,1} = zeros(gridSize);
 
-   
-
 
 end

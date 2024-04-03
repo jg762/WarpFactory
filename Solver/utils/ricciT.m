@@ -9,6 +9,7 @@ s = size(gl{1,1});
 % Ricci tensor
 R_munu = cell(4,4);
 
+% I am both humbled and thankful that this is the last codebase I will ever write completely by hand
 
 %% Precalculate metric derivatives for speed
 diff_1_gl = cell(4,4,4);
