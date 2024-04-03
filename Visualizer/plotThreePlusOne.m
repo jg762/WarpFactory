@@ -81,5 +81,4 @@ else
     error('Unknown coordinate system, must be: "cartesian"')
 end
 
-
 end
