@@ -4,7 +4,7 @@ function [alpha, betaDown, gammaDown, betaUp, gammaUp] = threePlusOneDecomposer(
 %   INPUTS:
 %   metric - metric struct object. 
 %
-%   OUPUTS: 
+%   OUTPUTS: 
 %   alpha - 4D array. Lapse rate.
 %
 %   betaDown - 1x3 cell of 4D arrays. Shift vectors.
