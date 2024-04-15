@@ -20,6 +20,10 @@ WarpFactory is a powerful numerical toolkit written in MATLAB for analyzing warp
 
 For comprehensive documentation and usage instructions, please visit the [WarpFactory Documentation](https://applied-physics.gitbook.io/warp-factory).
 
+[CQG Paper](https://iopscience.iop.org/article/10.1088/1361-6382/ad2e42)
+
+[arxiv](https://arxiv.org/abs/2404.03095)
+
 ## Installation
 
 To set up WarpFactory, follow these steps:
