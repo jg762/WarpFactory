@@ -1,6 +1,7 @@
 # WarpFactory
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=NerdsWithAttitudes/WarpFactory&file=README.md)
 
 WarpFactory is a powerful numerical toolkit written in MATLAB for analyzing warp drive spacetimes using Einstein's theory of General Relativity. Its unique focus lies in providing a numerical framework to analyze the physicality of spacetime.
 
